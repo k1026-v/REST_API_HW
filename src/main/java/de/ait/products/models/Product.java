@@ -1,3 +1,4 @@
+
 package de.ait.products.models;
 
 import lombok.*;
